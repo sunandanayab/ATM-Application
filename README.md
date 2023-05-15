@@ -20,7 +20,7 @@ To run the ATM application, follow these steps:
 * Follow the instructions displayed on the command prompt to perform ATM operations such as balance inquiry, cash withdrawal, and deposit.
 
 # License
-This project is licensed under the MIT License.
+This project is licensed under the MIT LICENSE .
 
 # Contact Information
 For any questions or suggestions, please contact me at nayabsunanda@gmail.com or visit my GitHub repository at your-github-repo.
